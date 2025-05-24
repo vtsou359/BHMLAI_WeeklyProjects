@@ -35,7 +35,7 @@ will be added in the following months.
 
 ### Big Projects and Capstone
 
-Furthermore, you can find **three bigger projects** and the **capstone project** in the following links:
+Furthermore, you can find **three practical application projects** and the **capstone project** in the following links:
 - [**Capstone Project**](https://github.com/vtsou359/Credit_Score_Classification_Project)
 - [Project 1: Coupon Acceptance](https://github.com/vtsou359/CouponAcceptance)
 - [Project 2: Used Cars - Price Prediction]()
