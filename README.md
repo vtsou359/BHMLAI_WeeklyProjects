@@ -1,4 +1,4 @@
-## UC Berkeley 
+## UC Berkeley Executive Education
 ### Professional Certificate Program in Machine Learning and Artificial Intelligence
 ### Program Projects
 
