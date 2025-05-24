@@ -5,3 +5,5 @@ pandas
 plotly
 scipy
 scikit-learn
+ucimlrepo
+yellowbrick
