@@ -162,3 +162,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+!/3.1_Creating Data Visualizations/.ipynb_checkpoints/
+!/2.2_Creating and Interpreting a Pair Plot/.ipynb_checkpoints/
+!/2.1_Applications of the Central Limit Theorem/.ipynb_checkpoints/
